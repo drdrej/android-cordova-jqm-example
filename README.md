@@ -9,6 +9,7 @@ used technologies:
 - jQuery mobile v1.x
 - apache cordova 2.x
 - eclipse 4.x with some plugins
+- maven 3.x (without apklibs)
 
 description of the app:
 -----------------------
